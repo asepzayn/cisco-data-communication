@@ -1,4 +1,4 @@
-# Cisco Data Communication
+# Cisco-Data-Communication
 
 This repository contains a collection of Cisco Packet Tracer files, showcasing configurations and exercises for various networking topics. These files are designed to help users understand and practice key concepts in data communication and networking.
 
